@@ -1,7 +1,8 @@
 .env
 
 .json
-*.pikle
+.pikle
 
 /credentials/*
 
+/token.pickle
