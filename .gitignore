@@ -1,0 +1,7 @@
+.env
+
+.json
+*.pikle
+
+/credentials/*
+
